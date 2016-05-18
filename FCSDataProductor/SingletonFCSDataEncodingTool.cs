@@ -43,6 +43,7 @@ namespace FCSDataProductor
             writeBinary.Close();
             fs.Close();
         }
+        //I like this style
         
     }
 }
