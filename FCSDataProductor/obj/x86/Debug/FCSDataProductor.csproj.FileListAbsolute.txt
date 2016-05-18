@@ -1,0 +1,10 @@
+E:\university\code\FCSDataProductor\FCSDataProductor\bin\x86\Debug\FCSDataProductor.exe.config
+E:\university\code\FCSDataProductor\FCSDataProductor\bin\x86\Debug\FCSDataProductor.exe
+E:\university\code\FCSDataProductor\FCSDataProductor\bin\x86\Debug\FCSDataProductor.pdb
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.csprojResolveAssemblyReference.cache
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.Form1.resources
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.Properties.Resources.resources
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.csproj.GenerateResource.Cache
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.exe
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.pdb
+E:\university\code\FCSDataProductor\FCSDataProductor\obj\x86\Debug\FCSDataProductor.Form2.resources
